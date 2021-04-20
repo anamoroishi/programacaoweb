@@ -1,0 +1,226 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+.h1 {
+    width: 100%;
+    background-color: white;
+    height: 270px;
+}
+
+.logo {
+        float: left;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 50%;
+}
+
+.midias-sociais ul li {
+    display: inline-block;
+    list-style:none ;
+    padding: 6px;
+}
+
+.midias-sociais {
+    float: right;
+    padding-right: 30px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+    text-align:right;
+}
+
+.midias-sociais img {
+    height: 25px;
+    width: auto;
+}
+
+.sobre {
+    float: left;
+    margin-left: 40px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.linha-sobre {
+    float: left;
+    margin-left: -109px;
+    margin-top: 70px;
+    width:50%;
+}
+
+.texto-sobre {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -109px;
+}
+
+.skills {
+    float: left;
+    margin-left: -676px;
+    margin-top: 100px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+    
+}
+
+.linha-skills {
+    float: left;
+    margin-left: 40px;
+    margin-top: 70px;
+    width:50%;
+}
+
+.texto-skills {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -580px;
+}
+
+.graduacao {
+    float: left;
+    margin-left: -560px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.linha-graduacao {
+    float: left;
+    margin-left: 39px;
+    margin-top: 332px;
+    width:50%;
+}
+
+.texto-graduacao {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -560px;
+    margin-top: 350px;
+}
+
+.idiomas {
+    float: left;
+    margin-left: -560px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-top: 265px;
+}
+
+.linha-idiomas {
+    float: left;
+    margin-left: 39px;
+    margin-top: 312px;
+    width:50%;
+}
+
+.texto-idiomas {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -560px;
+    margin-top: 330px;
+}
+
+.softwares {
+    float: left;
+    margin-left: -560px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-top: 265px;
+}
+
+.linha-softwares {
+    float: left;
+    margin-left: 39px;
+    margin-top: 375px;
+    width:50%;
+}
+
+.texto-softwares {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -560px;
+    margin-top: 390px;
+}
+
+.experiencia {
+    float: left;
+    margin-left: -560px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-top: 540px;
+}
+
+.linha-experiencia {
+    float: left;
+    margin-left: 39px;
+    margin-top: 540px;
+    width:50%;
+}
+
+.texto-experiencia {
+    float: left;
+    font-family: Helvetica;
+    font-style:normal;
+    font-weight:lighter;
+    font-size: 12pt;
+    margin-left: -560px;
+    margin-top: 555px;
+}
+
+.obrigada {
+    float: left;
+    margin-left: -560px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20pt;
+    margin-top: 1150px;
+}
+
+.linha-obrigada {
+    float: left;
+    margin-left: 39px;
+    margin-top: 600px;
+    width:50%;
+}
+
+.download_cv {
+    float: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12pt;
+    margin-left: -560px;
+    margin-top: 700px;
+}
